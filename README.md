@@ -1,4 +1,4 @@
-[![daiki1003's GitHub stats](https://github-readme-stats.vercel.app/api?username=daiki1003&count_private=true)](https://github.com/daiki1003/github-readme-stats)
+[![daiki1003's GitHub stats](https://github-readme-stats.vercel.app/api?username=daiki1003&count_private=true&theme=github_dark)](https://github.com/daiki1003/github-readme-stats)
 
 <!--
 **daiki1003/daiki1003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
